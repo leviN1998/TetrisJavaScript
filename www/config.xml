@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>FirstTetris</name>
+    <description>
+        A first Try in making a Tetris-game for Android.
+    </description>
+    <author email="levin.kolmar@googlemail.com" href="">
+        Levin Kolmar
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
